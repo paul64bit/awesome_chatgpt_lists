@@ -12,7 +12,7 @@
 * Idea 5: Logo design (Midjourney)
 * Idea 6: Generate patterns (Midjourney)
 
-Quick overview is provided here: [7 AI-Generated Digital Products](https://www.youtube.com/watch?v=nxE3V3ygugw)
+Quick overview (5 min video): [7 AI-Generated Digital Products](https://www.youtube.com/watch?v=nxE3V3ygugw)
 
 Required effort: Low / Required programming expertise: none
 
