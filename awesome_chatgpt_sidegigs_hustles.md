@@ -4,19 +4,19 @@
 
 ### Work with known market places
 
-####Etsy 
-Idea 1: Sell wedding resources (ChatGPT+Midjourney)
-Idea 2: Generate various guides (ChatGPT+Midjourney)
-Idea 3: Business cards (ChatGPT+Midjourney)
-Idea 4: Resume templates (ChatGPT)
-Idea 5: Logo design (Midjourney)
-Idea 6: Generate patterns (Midjourney)
+#### Etsy 
+* Idea 1: Sell wedding resources (ChatGPT+Midjourney)
+* Idea 2: Generate various guides (ChatGPT+Midjourney)
+* Idea 3: Business cards (ChatGPT+Midjourney)
+* Idea 4: Resume templates (ChatGPT)
+* Idea 5: Logo design (Midjourney)
+* Idea 6: Generate patterns (Midjourney)
 Quick overview is provided here: [7 AI-Generated Digital Products](https://www.youtube.com/watch?v=nxE3V3ygugw)
 
 
-####Fiver 
+#### Fiver 
 It is possible to list  your services on Fiver platform
-Idea 1: Text Generation with ChatGPT
-Idea 2: Article writing with ChatGPT
+* Idea 1: Text Generation with ChatGPT
+* Idea 2: Article writing with ChatGPT
 
 
