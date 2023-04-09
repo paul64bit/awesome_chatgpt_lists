@@ -14,10 +14,13 @@
 
 Quick overview is provided here: [7 AI-Generated Digital Products](https://www.youtube.com/watch?v=nxE3V3ygugw)
 
+Required effort: Low / Required programming expertise: none
+
 
 #### Fiver 
 It is possible to list  your services on Fiver platform
 * Idea 1: Text Generation with ChatGPT
 * Idea 2: Article writing with ChatGPT
+* Idea 3: Blogposts
 
-
+Required effort: Low / Required programming expertise: none
