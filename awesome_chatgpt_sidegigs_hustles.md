@@ -11,6 +11,7 @@
 * Idea 4: Resume templates (ChatGPT)
 * Idea 5: Logo design (Midjourney)
 * Idea 6: Generate patterns (Midjourney)
+
 Quick overview is provided here: [7 AI-Generated Digital Products](https://www.youtube.com/watch?v=nxE3V3ygugw)
 
 
