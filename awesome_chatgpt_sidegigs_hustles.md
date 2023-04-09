@@ -12,9 +12,9 @@
 * Idea 5: Logo design (Midjourney)
 * Idea 6: Generate patterns (Midjourney)
 
-Quick overview (5 min video): [7 AI-Generated Digital Products](https://www.youtube.com/watch?v=nxE3V3ygugw)
+*Quick overview (5 min video): [7 AI-Generated Digital Products](https://www.youtube.com/watch?v=nxE3V3ygugw)*
 
-Required effort: Low / Required programming expertise: none
+*Required effort: Low / Required programming expertise: none*
 
 
 #### Fiver 
@@ -22,5 +22,5 @@ It is possible to list  your services on Fiver platform
 * Idea 1: Text Generation with ChatGPT
 * Idea 2: Article writing with ChatGPT
 * Idea 3: Blogposts
-
-Required effort: Low / Required programming expertise: none
+* 
+*Required effort: Low / Required programming expertise: none*
