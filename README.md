@@ -1,9 +1,9 @@
-# awesome_chatgpt_lists
+# Awesome ChatGPT Lists of all sorts by paul64bit
 Curated collection of awesome ChatGPT related lists
 
  
-## Lists by other developers
+## ChatGPT sidegigs, hustles, sidejobs and income ideas
 [Awesome list of the ChatGPT sidegigs, hustles, sidejobs and income ideas](/awesome_chatgpt_sidegigs_hustles.md)
 
-## Lists by other developers
+## Related lists by other developers
 [Other awesome lists](/other_awesome_lists.md)
