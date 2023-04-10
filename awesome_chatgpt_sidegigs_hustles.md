@@ -2,6 +2,11 @@
 ## These ideas have been collected from variety of sources, but feel free to suggest your own
  As I searched I could not find one place which would collect different ways that ChatGPT is used to make money so I decided to make one.
 
+### Building revenue  off the ChatGPT wave
+* Idea 1: Writing a book about anything around GPT and selling it on GumRoad or alike
+* Idea 2: Building a webcatalog of AI websites tools and projects, and charging the projects for promotion (www.aicyclopedia.com)
+* Idea 3: Building a 3 page website(landing,authorization via GOogle, and model dahsboard) to connect via API to the likes of www.replicate.com via API to and to charge to individuals subscription packages to generate professional photos for agencies or linkein photos or similar (there are too maney, every body is doign that). Projects are cookiecutter at this point, check aicyclopedia.com for some of these.
+
 ### Work with known market places
 
 #### Etsy 
@@ -16,7 +21,6 @@
 
 *Required effort: Low / Required programming expertise: none*
 
-
 #### Fiver 
 It is possible to list  your services on Fiver platform
 * Idea 1: Text Generation with ChatGPT
@@ -25,6 +29,7 @@ It is possible to list  your services on Fiver platform
 
 *Required effort: Low / Required programming expertise: none*
 
+### Searching for clients or building products yourself
 #### Youtuber services
 - Dubbing videos into different languages.
 - Offering transcription services for podcasters and YouTubers.
