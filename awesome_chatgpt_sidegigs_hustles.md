@@ -22,5 +22,24 @@ It is possible to list  your services on Fiver platform
 * Idea 1: Text Generation with ChatGPT
 * Idea 2: Article writing with ChatGPT
 * Idea 3: Blogposts
-* 
+
 *Required effort: Low / Required programming expertise: none*
+
+#### Youtuber services
+- Dubbing videos into different languages.
+- Offering transcription services for podcasters and YouTubers.
+- Writing scripts for youtubers
+
+#### Local services/local clients
+- Starting a newsletter business for brick-and-mortar businesses.
+- Providing SEO services using ChatGPT.
+- Developing a chatbot for businesses to improve customer service.
+
+#### Online busineses
+- Creating an online course using ChatGPT.
+- Creating an AI-powered resume builder.
+- Creating a digital product using ChatGPT. (Like children books and listing them on Amazon)
+
+*Quick overview (10 min video): [6+AI Side Hustles ](https://www.youtube.com/watch?v=gO57X3NNSUs)*
+*Required effort: Low / Required programming expertise: none*
+
