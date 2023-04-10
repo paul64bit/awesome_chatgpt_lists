@@ -1,4 +1,4 @@
-# This is an awesome list of the ChatGPT sidegigs, hustles, sidejobs and income ideas
+# Awesome list of the ChatGPT sidegigs, hustles, sidejobs and income ideas
 ## These ideas have been collected from variety of sources, but feel free to suggest your own
  As I searched I could not find one place which would collect different ways that ChatGPT is used to make money so I decided to make one.
 
