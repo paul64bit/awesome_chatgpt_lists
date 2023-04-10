@@ -5,7 +5,7 @@
 ### Building revenue  off the ChatGPT wave
 * Idea 1: Writing a book about anything around GPT and selling it on GumRoad or alike
 * Idea 2: Building a webcatalog of AI websites tools and projects, and charging the projects for promotion (www.aicyclopedia.com)
-* Idea 3: Building a 3 page website(landing,authorization via GOogle, and model dahsboard) to connect via API to the likes of www.replicate.com via API to and to charge to individuals subscription packages to generate professional photos for agencies or linkein photos or similar (there are too maney, every body is doign that). Projects are cookiecutter at this point, check aicyclopedia.com for some of these.
+* Idea 3: Building a 3 page website(landing,authorization via GOogle, and model dahsboard) to connect via API to the likes of www.replicate.com via API to and to charge to individuals subscription packages to generate professional photos for agencies or linkein photos or similar (there are too many to list, everybody is doing that). Projects are cookiecutter at this point, check aicyclopedia.com for some of these.
 
 ### Work with known market places
 
